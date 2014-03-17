@@ -1,7 +1,7 @@
 Studio L2 - Inh. Dirk Lücke
 ===========================
 
-Dirks Geschäftsseite - ein Onepager, der mit Hilfe von Middleman gebaut wurde.
+Dirks Geschäftsseite - mit Hilfe von Middleman & Foundation gebaut
 
 Middleman
 ---------
@@ -17,3 +17,17 @@ Für mehr Informationen: [middlemanapp.com](http://middlemanapp.com)
 
 Middleman während der Entwicklung in der Konsole starten: `middleman` (danach im Browser `localhost:4567` aufrufen)
 Um statische Datein zu generieren, die dann live eingespielt werden können: `middleman build`
+
+Foundation
+----------
+
+Foundation ist ein Frontend Framework, welches die Seite mit feinsten CSS/JS Komponenten versorgt, wie
+
+- 12 column grid
+- Hilfe, für responsive Seiten
+- Buttons, Dropdowns, Forms, ...
+- modal dialogs
+- image slider
+- ...
+
+Für mehr Informationen: [foundation.zurb.com](http://foundation.zurb.com)

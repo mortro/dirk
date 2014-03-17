@@ -26,8 +26,9 @@
     %meta{ property: 'og:description', content: t('defaults.description') }
 
     = stylesheet_link_tag "page.css"
-    = javascript_include_tag "page.js"
+    = javascript_include_tag "page_header.js"
     / IE Fix for HTML5 Tags
     /[if lt IE 9]
   %body
     = yield
+    = javascript_include_tag "page_footer.js"
