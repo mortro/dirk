@@ -1,8 +1,14 @@
-.topic{ class: "as-#{topic}" }
+.topic{ class: "as-#{topic}#{first ? ' is-first' : ''}#{last ? ' is-last' : ''}" }
+  .row.topic-anchor
+    %a{ name: "#{topic}" }
   .row
-    .small-12.large-4.large-offset-8.columns.topic-title
-      = t("topic.#{topic}.title")
-  .row.topic-empty-row
+    %h1.topic-title= t("topic.#{topic}.title")
   .row
-    .small-12.large-8.columns.topic-description
+    .small-12.columns.topic-description
       = t("topic.#{topic}.description")
+      = link_to t('common.read_more'), "/#{topic}.html", class: 'c2a-button' if topic != :home
+.border
+  .border-link
+    %a{ href: "##{next_topic ? next_topic : 'top'}", data: { behavior: 'anchor-scroll' } }
+      .border-link-triangle{ class: "#{'as-up' if last}" }
+      .border-link-triangle--small{ class: "#{'as-up' if last}" }

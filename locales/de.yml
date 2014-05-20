@@ -1,16 +1,35 @@
 ---
 de:
+  common:
+    read_more: 'weiter'
   defaults:
-    page_title: 'Architekturbüro Studio L2 - Inh. Dirk Lücke'
     description: 'Studio L2 ist ein Architekturbüro aus Borgentreich. Es wurde 1998 von Dirk Lücke gegründet. Das Büro bietet seine Dienste in den Bereichen Neubau, Altbau, Sanierung, Skatepraks, Poolcopings und Statik an.'
+    logo: 'L2'
+    page_title: 'Architekturbüro Studio L2 - Inh. Dirk Lücke'
   index:
     page_title: 'Architekturbüro Studio L2 - Inh. Dirk Lücke'
   topic:
     home:
-      title: 'Studio L2'
       description: |
         Seit über 75 Jahren sind wir im Baugewerbe und seit 1958 in der Architektur tätig. Schwerpunkte unserer Arbeit sind sowohl die Planung von Freianlagen wie auch von Gebäuden. Einen weiteren Schwerpunkt unserer Arbeit bildet seit einigen Jahren die Planung und der Bau von Skateparks. Hier legen wir größten Wert auf eine individuelle Planung, die auf die Ansprüche der Nutzer sowie die jeweiligen örtlichen Gegebenheiten und Konzepte abgestimmt ist. Vom ersten Vorentwurfe über die Genehmigung bis zum Ingenieurbau mit Statik und Ausführung von Skateparks decken wir die gesamte Bandbreite der Bauleistungen ab. Zur Visualisierung und Greifbarmachung des Raumes bieten wir hochwertige 3D-Animationen und Modelle in beliebigem Maßstab an. Seit drei Generationen steht unser Name für höchste Qualität in Planung und Ausführung. Für eine an Ihren Wünschen und Bedürfnissen orientierte Architektur und eine individuelle Planung sind wir für Sie der richtige Ansprechpartner.
-    skate:
-      title: 'Skateparks'
+      title: 'Studio L2'
+    new_building:
+      description: |
+        Eine freie Fläche in der Innenstadt wird mit einem modernen  Kubusbau im Bauhausstil zum Hingucker zwischen der bestehenden Backsteinbebauung. Durch die klaren Formen, eine dezente Farbgebung und die Eckgrundstücklage ist das Gebäude ein Kontrast zur bestehenden Bebauung. Stilelemente der vorhandenen Gebäude werden aufgenommen und in neuer Weise integriert. Zwei Vollgeschosse mit großem Werk- und Arbeitsraum sowie Stellplatz für zwei Pkw bieten einer 5- köpfigen Familie Platz. Das Erdgeschoss kann als separate barrierefreie Wohnung genutzt werden.  Große Räume und Fensterflächen durchfluten das Haus mit Tageslicht und schaffen so eine Verbindung von Außen- und Innenraum.
+      title: 'Neubau'
+    old_building:
+      description: |
+        Das Bauernhaus wurde in zwei Bauphasen umgebaut und saniert, und somit vom Einfamilien-  zum  Zweifamilienhaus mit Doppelgarage. In den ehemaligen Stallungen und dem abgeschlossenen Treppenhaus in der Deele des Hauses sowie dem Obergeschoss des Wohnhauses entstand eine familiengerechte Wohnung. Die Erdgeschosswohnung verblieb im bestehenden Grundriss, während das Obergeschoss und der gesamte ehemalige Stallbereich im Ober- wie auch im Untergeschoss inkl. Grundrissverbesserungen saniert wurden. In der Entwurfs- wie auch in der Ausführungsphase erarbeiteten wir zusammen mit der Bauherrenfamilie ein Konzept, das Stilelemente des alten Bauernhauses aufnimmt. Um den ursprünglichen Charakter des Hauses zu bewahren, bleiben Bauteilen wie Backsteinfassade, Kellenputz,  Deelentor, und Zwerggiebel erhalten.
+      title: 'Altbau'
+    skatepark:
       description: |
         In Zusamenarbeit mit unseren Partnern sind wir für anspruchsvolste und individuele Skateparks verantwortlich. Die Orientierung an den Bedürfnisen und Wünschen der Nutzer ist dabei unser zentrales Anliegen. Der Cradlebowl auf der Skateboardmese Bright in Frankfurt, der Skatepark und der Indor - Bowl in Düseldorf, der Kidney-Pol in Hamburg oder der Pol in Hagen sind nur einige Anlagen, die von unserem Büro geplant und realisiert wurden und zu den besten Spots der Szene zählen. Zu unserem Angebot zählen sowohl Planung und Genehmigung als auch Bauleitung und -ausführung. Sie erhalten bei uns individuele Entwürfe und Ausführungsplanungen mit den nötigen Vergabeunterlagen. Bei der Planung und Ausführung im Beton- und Holzbau bauen wir nach der europäischen Norm. Jeder Park wird individuel geshaped und ist so auf die Bedürfnise von Anfängern wie auch Fortgeschritenen zugeschniten. Unsere Anlagen sind nicht nur Skateparks, sondern Kombinationsanlagen für Skater, Inliner, Biker, Waveboarder, u.v.m. Bei der Vergabe arbeiten wir in der Regel mit ortsansäsigen Firmen zusamen und sind so in der Lage, Arbeiten wie Bausteleneinrichtung, Tiefbau, Stahlbau, Gerüst- und Landschaftsbau getrent an regionale Firmen zu vergeben. Erfahrungsgemäß wird das Einbinden heimischer Firmen besonders bei den Bürgern der Stadt positiv bewertet.
+      title: 'Skateparks'
+    poolcoping:
+      description: |
+        Seit einigen Jahren wird Poolcoping als Rampen-  und  Poollip immer beliebter. Um den hohen Ansprüchen  an   Poolcoping für    Skateboarder   gerecht    zu   werden,   entwickelten    wir zusammen mit einigen erfahrenen  Skateboardern  der  Szene und dem  Betonwerk  Profistein  eine  spezielle  Rezeptur   für Copings: Edelsplitten, Kieselschüttung und Brechsand  sowie hochwertige  Zemente sorgen mit hohem  Abrieb und    großer Festigkeit   für   das  richtige   Poolfeeling.   Egal   ob   Gerade, Corner oder  Hip,   wir  sind  in   der  Lage,  Steine  mit   jedem beliebigen   Radius   zu    erstellen.     Weiterhin   können Sie  zwischen  drei  verschiedenen  Betonrezepturen,  speziell  auf individuelle  Bedürfnisse  abgestimmt,  wählen. Für die hohe Qualität   unserer  Copings  spricht  die  Tatsache,  dass sie  innerhalb kürzester Zeit von der  Szene angenommen wurden und heute in den  bedeutendsten  Skateparks eingebaut  sind.  Zu unseren  Kunden zählen z.B. die Old Men Skateboarding Association aus Düsseldorf, Europameister Volker Petersen und Anders Tellen aus Dortmund, Blackriver-Ramps und  sogar  Trapprofi  Jürgen  Horrwarth   ist  in  seinem Bowl in   Berlin  auf   unserem   Poolcoping   unterwegs. Das Projekt L2Poolcoping arbeitet ohne Gewinne. Nach Abzug der laufenden Kosten wird das erwirtschaftete Geld einer von StudioL2 unterstützten Jugendeinrichtung zur Verfügung gestellt. Mit dem Geld werden seit bereits fünf Jahren zwei Skateanlagen outdoor und indoor erfolgreich unterstützt. Das Geld wird für Ausbau und Unterhaltung der Anlagen verwendet. Die Jugendlichen arbeiten in eigener Regie und werden von uns unterstützt. In den nächsten Jahren soll aufgrund der großen Nachfrage das bisher stark am Rollsport orientierte Projekt auch auf andere Bereiche ausgeweitet werden.
+      title: 'Poolcoping'
+    services:
+      description: |
+        Egal ob Neu-  oder Altbau, mit neuster Technik finden wir auch das kleinste Leck in Ihrer Haushülle.
+      title: 'weitere Dienstleistungen'

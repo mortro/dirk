@@ -1,0 +1,10 @@
+- @page_title = t('index.page_title')
+- @current_page = :new_building
+
+
+%a{ name: 'top' }
+
+- t('new_building').keys.each_with_index do |topic_sym, index|
+  - first = index == 0 ? true : false
+  - last = index+1 == t('new_building').keys.size ? true : false
+  = partial :shared_topic, locals: { meta_topic: 'new_building', topic: topic_sym, first: first, last: last, next_topic: t('new_building').keys[index+1] }

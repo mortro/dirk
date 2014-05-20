@@ -1,22 +1,142 @@
 .topic
-  height: 140%
-  padding: $margin*6
+  height: 90%
+  padding: $margin*3
+
+  &.is-first
+    height: 80%
+
+  &.is-last
+    height: 110%
 
   &.as-home
-    background: url(../images/bg-home.jpg) no-repeat right center fixed
+    background: url(../images/bg-home.png) no-repeat center center fixed
+    background-size: 100% auto
+  &.as-new_building
+    background: url(../images/bg-new_building.png) no-repeat center center fixed
+    background-size: 100% auto
+  &.as-old_building
+    background: url(../images/bg-old_building.png) no-repeat center center fixed
+    background-size: 100% auto
+  &.as-skatepark
+    background: url(../images/bg-skatepark.png) no-repeat center center fixed
+    background-size: 100% auto
+  &.as-poolcoping
+    background: url(../images/bg-poolcoping.png) no-repeat center center fixed
+    background-size: 100% auto
+  &.as-services
+    background: url(../images/bg-services.png) no-repeat center center fixed
+    background-size: 100% auto
 
-  &.as-skate
-    background: url(../images/bg-skate.jpg) no-repeat right center fixed
+  &.as-new_building_1
+    background: url(../images/new_building_1/bg.png) no-repeat center center fixed
+    background-size: 100% auto
+  &.as-new_building_2
+    background: url(../images/new_building_2/bg.png) no-repeat center center fixed
+    background-size: 100% auto
+  &.as-new_building_3
+    background: url(../images/new_building_3/bg.png) no-repeat center center fixed
+    background-size: 100% auto
+  &.as-new_building_4
+    background: url(../images/new_building_4/bg.png) no-repeat center center fixed
+    background-size: 100% auto
+  &.as-new_building_5
+    background: url(../images/new_building_5/bg.png) no-repeat center center fixed
+    background-size: 100% auto
+  &.as-new_building_6
+    background: url(../images/new_building_6/bg.png) no-repeat center center fixed
+    background-size: 100% auto
+  &.as-new_building_7
+    background: url(../images/new_building_7/bg.png) no-repeat center center fixed
+    background-size: 100% auto
+  &.as-new_building_8
+    background: url(../images/new_building_8/bg.png) no-repeat center center fixed
+    background-size: 100% auto
+  &.as-new_building_9
+    background: url(../images/new_building_9/bg.png) no-repeat center center fixed
+    background-size: 100% auto
+
+  &.as-old_building_1
+    background: url(../images/old_building_1/bg.png) no-repeat center center fixed
+    background-size: 100% auto
+  &.as-old_building_2
+    background: url(../images/old_building_2/bg.png) no-repeat center center fixed
+    background-size: 100% auto
+  &.as-old_building_3
+    background: url(../images/old_building_3/bg.png) no-repeat center center fixed
+    background-size: 100% auto
+  &.as-old_building_4
+    background: url(../images/old_building_4/bg.png) no-repeat center center fixed
+    background-size: 100% auto
+  &.as-old_building_5
+    background: url(../images/old_building_5/bg.png) no-repeat center center fixed
+    background-size: 100% auto
+  &.as-old_building_6
+    background: url(../images/old_building_6/bg.png) no-repeat center center fixed
+    background-size: 100% auto
+  &.as-old_building_7
+    background: url(../images/old_building_7/bg.png) no-repeat center center fixed
+    background-size: 100% auto
+
+  .topic-anchor
+    height: $margin*3
 
   .topic-empty-row
     height: 45px
 
   .topic-title
-    min-height: 90px
-    padding: $padding
-    font-size: 60px
-    background-color: wheat
+    +opacity(0.8)
+    color: $box-background-dark-color
+    text-shadow: 1px 1px $box-background-light-color--transparent
+    text-align: right
+    float: right
+    // background-color: $box-background-light-color--transparent
 
   .topic-description
+    color: $default-light-color
     padding: $padding
-    background-color: wheat
+    background-color: $box-background-dark-color--transparent
+
+.border
+  height: 10px
+  width: 100%
+  border-top: 4px solid $box-background-dark-color
+  border-bottom: 4px solid $box-background-dark-color
+  background-color: $box-background-light-color
+
+  .border-link
+    position: relative
+    margin-left: auto
+    margin-right: auto
+    height: 60px
+    width: 60px
+
+    .border-link-triangle
+      position: relative
+      top: 4px
+
+      width: 0
+      height: 0
+      border-left: 20px solid transparent
+      border-right: 20px solid transparent
+      border-top: 20px solid $box-background-dark-color
+
+      &.as-up
+        top: -24px
+        border-top: none
+        border-bottom: 20px solid $box-background-dark-color
+
+    .border-link-triangle--small
+      position: relative
+      top: -19px
+      left: 2px
+      width: 0
+      height: 0
+      position: relative
+      border-left: 18px solid transparent
+      border-right: 18px solid transparent
+      border-top: 18px solid $box-background-light-color
+
+      &.as-up
+        top: -40px
+        border-top: none
+        border-bottom: 20px solid $box-background-light-color

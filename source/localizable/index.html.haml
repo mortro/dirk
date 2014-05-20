@@ -1,4 +1,10 @@
 - @page_title = t('index.page_title')
+- @current_page = :home
 
-= partial :topic, locals: { topic: 'home' }
-= partial :topic, locals: { topic: 'skate' }
+
+%a{ name: 'top' }
+
+- t('topic').keys.each_with_index do |topic_sym, index|
+  - first = index == 0 ? true : false
+  - last = index+1 == t('topic').keys.size ? true : false
+  = partial :topic, locals: { topic: topic_sym, first: first, last: last, next_topic: t('topic').keys[index+1] }

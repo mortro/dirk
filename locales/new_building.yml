@@ -1,0 +1,125 @@
+---
+de:
+  new_building:
+    new_building_1:
+      description: |
+        Haus COBO
+
+        Im Borgentreicher Neubaugebiet entstand dieses Einfamilienwohnhaus. Ein Baustil, der kubische Formen mit mediterranen Bauelementen verbindet, gibt dem Haus eine besondere Ausstrahlung. Bei der  Fassadengestaltung wurde bewusst Wert auf dezente und klare Farb- und Formgebung gelegt. Durch die Holzrahmenkonstruktion konnte eine geringe Bauzeit sichergestellt werden. Nach Baubeginn im Frühjahr 2010 konnte das Haus schon im vergangenen Winter bezogen werden.
+
+        Bauart: Mediterran/Modern
+        Tragende Konstruktion: Holzrahmenbau
+        Außenanlage: Betonstein in Granitoptik, grauer Kieselsplitt
+        Fassade: WDVS mit Scheibenputz
+        Wohnfläche: 130m²; Wohnen/Essen, Küche, Büro, WC, Bad/WC,3 Schlafräume, Abstell- und Lagerräume
+        Heizungsanlage: Erdwärme Flächenkollektoren
+      images_size: 5
+      title: 'Haus COBO'
+    new_building_2:
+      description: |
+        Haus am Hang
+
+        Ein  vorhandenes  schmales Grundstück mit einem Höhenunterschied von 7,00 Metern ist eine Herausforderung
+        für barrierefreies Bauen. Entstanden ist ein außergewöhn-
+        liches Haus, das allen Anforderungen seiner Bewohner
+        gerecht wird. Das Einfamilien Wohnhaus, das stark an die Bauhaus Architektur angelehnt ist, wird auf zwei Etagen den Komfort jedes anderen  ebenerdigen Wohnhauses haben.
+        Durch die Hanglage sind der Außengestaltung in Verbindung
+        mit den kubischen  Baukörpern und terrassierten Gärten auch unter der Vorgabe der Barrierefreiheit keine Grenzen gesetzt
+
+        Bauart: Haus im Bauhausstil
+        Tragende Konstruktion: Poroton-Ziegelmauerwerk, monolitisch
+        Außenanlage: Terrassengärten aus Grauwacke
+        Fassade: Spritzputz, Flachdach, Faschengliederung
+        Wohnfläche: 140m²; Wohnen/Essen, Küche, Büro, WC, Bad/WC, 3 Schlafräume, Abstellraum, Keller mit Musikraum
+        Heizungsanlage: Wasser-Wasser Wärmepumpe
+      images_size: 3
+      title: 'Haus am Hang'
+    new_building_3:
+      description: |
+        (H)aus der Region
+
+        Das Konzept des zweigeschossigen Wohnhauses in einer Baulücke besteht darin, möglichst viele Roh- und Baustoffe aus der Region zu beziehen sowie ortsansässige Firmen einzubinden: Vom ersten Verfüllen der Fundamente mit Weserkies bis hin zur späteren Außenverkleidung aus heimischem Lärchenholz sowie  Bruchstein aus örtlichen Steinbrüchen. Das Haus garantiert mit seiner ökologischen Bauart ein gesundes Wohnen. Wärmepumpe sowie Photovoltaik und Solaranlage machen das Haus zudem zu einem Energiesparer.
+
+        Bauart: Satteldach Haupthaus, mit Nebengebäuden in
+        Form von Kuben Tragende Konstruktion: Poroton-Ziegelmauerwerk mit Dämmung aus Steinwolle
+        Fassade: Scheibenputz, Bruchstein, Rombusleisten
+        Wohnfläche: 150m²; Wohnen/Essen, Küche, Büro, WC, 4 Schlafräume, Abstellraum
+        Heizungsanlage: Wasser-Wasser Wärmepumpe
+      images_size: 4
+      title: '(H)aus der Region'
+    new_building_4:
+      description: |
+        Haus D
+
+        Am Weserufer in Beverungen-Wehrden entstand dieser Holzrahmenbau nach unseren Entwurfs- und Ausführungszeichnungen. Der Entwurf mit den nötigen Ausführungsplanungen wurde von einem regionalen Holzhausanbieter umgesetzt. Das Haus mit zwei Vollgeschossen bietet Platz für vier Personen und wird durch eine Pelletheizung mit nachwachsenden Rohstoffen geheizt. Reichlich Abstell- und Lagerraum haben die Bauherren in dem großen Anbau, der mit der Garage verbunden ist, sowie im separat gestellten Garagenbau mit Werkstatt für die Hobbys der Bauherrenfamilie wie Reiten, Oldtimer und Segeldrachenfliegen.
+
+        Bauart: Zeitloser Baustil
+        Tragende Konstruktion: Holzrahmenbau
+        Außenanlage: Einfahrten Haus D aus Weserkies, Garten in Planung
+        Fassade: Scheibenputz mit Faschengliederung.
+        Wohnfläche: 125m²; Wohnen/Essen, Küche, Büro, WC, Bad/WC, 3 Schlafräume, Abstellraum, Garage mit Lagerraum, Garagen/Werkstattgebäude.
+        Heizungsanlage: Holz-Pelletheizung
+      images_size: 7
+      title: 'Haus D'
+    new_building_5:
+      description: |
+        Haus Ehrenberger
+
+        Der Neubau, der sich derzeit in der Bezugsphase befindet, wurde vom ersten Entwurf an barrierefrei geplant. Alle Räume und auch Außenbereiche  sind behindertengerecht mit Rollstuhl zu befahren. Türen im Gebäude lassen sich elektrisch öffnen und schließen, Kleiderschränke sind befahrbar, das Bad komplett umfahrbar. Dieses Haus ist genau auf die individuellen Bedürfnisse seiner Bewohner abgestimmt und verbindet das private mit dem beruflichen Leben. Arbeits- und Wohnbereiche werden in diesem Konzept unter ein Dach gebracht.
+        Großen Wert legten die Bauherren auch auf den ökologischen Aspekt: Holzrahmenbau mit Dämmung aus Schafswolle, Wasser-Wasser-Wärmepumpe sowie eine biologische Kläranlage und Nutzung der Sonnenenergie fließen in die Planungen ein. Auch die komplette Außenverkleidung aus regionalen Hölzern trägt zur Nachhaltigkeit bei.
+      images_size: 5
+      title: 'Haus Ehrenberger'
+    new_building_6:
+      description: |
+        Haus Gladen
+
+        Eine Baulücke in einem Baugebiet der 60er Jahre wurde für einen Neubau im mediterranen Baustil genutzt. Das Zeltdachhaus mit Dachterrassen- und Garagenanbau bietet Wohnraum auf 140m². Es wurde als Einfamilienhaus konzipiert, ist aber auch als Zwei-Parteien-Wohnhaus nutzbar. Durch große statische Spannweiten der Decken entstehen stützen- und wandfreie Räume, die durch den Einbau von Leichtbauwänden variabel genutzt werden können.
+
+        Bauart: Mediterran
+        Tragende Konstruktion: Porotonziegeln, monolitisch
+        Außenanlage: Betonstein in Sandsteinoptik, Kieselsplitt
+        Fassade: Kellenputz als Dämmputz
+        Wohnfläche: 140m²; Wohnen/Essen, Küche, Büro, WC, Bad/WC,3 Schlafräume, Abstell- und Lagerräume
+        Heizungsanlage: Gas-Brennwert
+      images_size: 4
+      title: 'Haus Gladen'
+    new_building_7:
+      description: |
+        Haus M – Neubau im Bestand
+
+        Auf einem zentral liegenden Baugrundstück in der  bebauten Ortslage errichten wir derzeit dieses
+        Wohnhausim Kfw 50 Standard. Mit zwei Vollgeschossen,  einem Carport und reichlich Lager- und Abstell- sowie
+        Hobbyraum kann dieses  Wohnhaus durch einen gut  durchdachten Grundriss als 1- oder 2-Parteien-Wohnhaus
+        genutzt  werden. Durch Befreiungen vom Bebauungsplan  konnten die Dachflächen nach Süden ausgerichtet werden,
+        so dass die gesamte Dachfläche zur Nutzung regenerativer  Energie genutzt werden kann. Die  Außenfassade wird durch abgesetzte Putzflächen und Edelhölzer schlicht und zeitlos gestaltet.
+
+        Bauart: Zeitloser Baustil
+        Tragende Konstruktion: Poroton-Ziegelmauerwerk mit Dämmung aus Wärmedämmverbundsystem
+        Außenanlage: in Planung
+        Fassade: Kratzputz, Faschen als Stilelemente, Rombusleisten
+        Wohnfläche: 140m²; Wohnen/Essen, Küche, Büro, WC, Bad/WC,4 Schlafräume, Abstell- und Lagerräume
+        Heizungsanlage: Wasser-Wasser Wärmepumpe
+      images_size: 2
+      title: 'Haus M – Neubau im Bestand'
+    new_building_8:
+      description: |
+        Hofhaus im Bestand
+
+        Zusammen mit den Landschaftsplanern des Unternehmens Zweigwerk, die gleichzeitig die Bauheren dieses Neubaus sind, errichteten wir diesen Holzrahmenbau, der nach unseren Entwürfen von einem regionalen Zimmermann erstellt wurde.
+        Die kubischen Baukörper des Wohnhauses mit Büroräumen  und Nebengebäuden zur Gerätelagerung  sind auf die spätere Hofgestaltung abgestimmt. Die Baukörper von Wohnhaus und Nebengebäuden sind in die Gartenarchitektur eingeplant, so dass ein Gesamtkonzept aus Innen- und Außenraum entsteht. Dieses Haus zeigt, dass die Planung nicht bei der Schlüsselübergabe endet, sondern sich in der Gestaltung und Formgebung der umgebenden Arbeits- und Gartenflächen fortsetzt.Mit der Nutzung einer Stückholzheizung wird der ökologischen Nachhaltigkeit Rechnung getragen.
+      images_size: 5
+      title: 'Hofhaus im Bestand'
+    new_building_9:
+      description: |
+        Kubus im Bestand
+
+        Eine freie Fläche in der Innenstadt wird mit einem modernen  Kubusbau im Bauhausstil zum Hingucker zwischen der bestehenden Backsteinbebauung. Durch die klaren Formen, eine dezente Farbgebung und die Eckgrundstücklage ist das Gebäude ein Kontrast zur bestehenden Bebauung. Stilelemente der vorhandenen Gebäude werden aufgenommen und in neuer Weise integriert. Zwei Vollgeschosse mit großem Werk- und Arbeitsraum sowie Stellplatz für zwei Pkw bieten einer 5- köpfigen Familie Platz. Das Erdgeschoss kann als separate barrierefreie Wohnung genutzt werden.  Große Räume und Fensterflächen durchfluten das Haus mit Tageslicht und schaffen so eine Verbindung von Außen- und Innenraum.
+
+        Bauart: Bauhausstil
+        Tragende Konstruktion: Poroton Ziegelmauerwerk
+        Außenanlage: in Planung
+        Fassade: WDVS 12cm mit Scheibenputz
+        Wohnfläche: 140m²; Wohnen/Essen, Küche, Büro, WC, Bad/WC,3 Schlafräume, Abstell- und Lagerräume
+        Heizungsanlage: Stückholzheizung
+      images_size: 5
+      title: 'Kubus im Bestand'

@@ -30,5 +30,6 @@
     / IE Fix for HTML5 Tags
     /[if lt IE 9]
   %body
+    = partial :navigation
     = yield
     = javascript_include_tag "page_footer.js"

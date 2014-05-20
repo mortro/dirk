@@ -1,0 +1,15 @@
+.topic{ class: "as-#{topic}#{first ? ' is-first' : ''}#{last ? ' is-last' : ''}" }
+  .row.topic-anchor
+    %a{ name: "#{topic}" }
+  .row
+    %h1.topic-title= t("#{meta_topic}.#{topic}.title")
+  .row
+    .small-12.columns.topic-description
+      = t("#{meta_topic}.#{topic}.description")
+      = partial :slide_show, locals: { topic: topic, images_size: t("#{meta_topic}.#{topic}.images_size").to_i }
+.border
+  .border-link
+    %a{ href: "##{next_topic ? next_topic : 'top'}", data: { behavior: 'anchor-scroll' } }
+      .border-link-triangle{ class: "#{'as-up' if last}" }
+      .border-link-triangle--small{ class: "#{'as-up' if last}" }
+

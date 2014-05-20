@@ -1,0 +1,38 @@
+body
+  font-family: ArchivoNarrowRegular, "Helvetica Neue", Helvetica, sans-serif
+  font-size: $default-font-size
+  color: $text-color
+  background-color: $default-light-color
+
+// general font style
+%bold-font
+  font-family: ArchivoNarrowBold, "Helvetica Neue", Helvetica, sans-serif
+  font-size: $default-font-size
+.bold-font
+  @extend %bold-font
+
+.header-font
+  @extend %header-font
+h1
+  @extend %header-font
+%header-font
+  font-family: Dock51
+  font-size: $header-font-size
+
+.c2a-button
+  font-family: ArchivoNarrowRegular, "Helvetica Neue", Helvetica, sans-serif
+  font-size: $default-font-size
+  color: $default-dark-color
+  background-color: $default-light-color
+  line-height: 1.4
+  padding-top: 1px
+  padding-bottom: 2px
+  padding-left: 6px
+  padding-right: 7px
+  +border-radius(3px)
+
+  &:active, &:focus, &:hover, &:link, &:visited
+    color: $default-dark-color
+
+  &:hover
+    background-color: darken($default-light-color, 20%)
