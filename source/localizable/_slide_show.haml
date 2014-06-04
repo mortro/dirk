@@ -1,11 +1,8 @@
 - images = (1..(images_size)).map{ |image_number| { image_path: "../images/#{topic}/#{topic}_#{image_number}.jpg", thumbnail_path: "../images/#{topic}/#{topic}_#{image_number}_th.jpg" } }
 
-#slide-show.reveal-modal{data: { reveal: true } }
-  %h2 Awesome. I have it.
-  %p Im a cool paragraph that lives inside of an even cooler modal. Wins
-  %a.close-reveal-modal &#215;
-%ul.clearing-thumbs{ data: { clearing: true } }
-  - images.each do |image|
-    %li
-      =link_to image[:image_path] do
-        = image_tag image[:thumbnail_path]
+- if images.any?
+  %ul.clearing-thumbs{ data: { clearing: true } }
+    - images.each do |image|
+      %li
+        =link_to image[:image_path] do
+          = image_tag image[:thumbnail_path]
