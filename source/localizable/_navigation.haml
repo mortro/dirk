@@ -15,12 +15,12 @@
           %a{ href: '#' }
             .navigation-icon &#x24D8;
           %ul.dropdown
-            %li= link_to 'Impressum', '#', data: { "reveal-id" => 'imprint' }
-            %li= link_to 'Anfahrt', '#', data: { "reveal-id" => 'avenue' }
-            %li= link_to 'Kontakt', '#', data: { "reveal-id" => 'contact' }
+            %li= link_to t('common.imprint'), '#', data: { "reveal-id" => 'imprint' }
+            %li= link_to t('common.avenue'), '#', data: { "reveal-id" => 'avenue' }
+            %li= link_to t('common.contact'), '#', data: { "reveal-id" => 'contact' }
 
 #imprint.reveal-modal.tiny{ data: { reveal: true } }
-  %h1= 'Impressum'
+  %h1= t('common.imprint')
   %p
     StudioL2-Architektur
     %br
@@ -33,7 +33,7 @@
     &#215;
 
 #avenue.reveal-modal.small{ data: { reveal: true } }
-  %h1= 'Anfahrt'
+  %h1= t('common.avenue')
   %p Marktstraße 15, 34434, Borgentreich
   :erb
     <iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=de&amp;geocode=&amp;q=Marktstra%C3%9Fe+15,+34434,+Borgentreich,+Deutschland&amp;aq=0&amp;oq=Marktstra%C3%9Fe+15++34434+Borgentreich&amp;sll=37.0625,-95.677068&amp;sspn=51.177128,101.425781&amp;ie=UTF8&amp;hq=&amp;hnear=Marktstra%C3%9Fe+15,+34434+Borgentreich,+Deutschland&amp;t=m&amp;z=14&amp;ll=51.568997,9.240251&amp;output=embed"></iframe><br /><small><a href="https://maps.google.com/maps?f=q&amp;source=embed&amp;hl=de&amp;geocode=&amp;q=Marktstra%C3%9Fe+15,+34434,+Borgentreich,+Deutschland&amp;aq=0&amp;oq=Marktstra%C3%9Fe+15++34434+Borgentreich&amp;sll=37.0625,-95.677068&amp;sspn=51.177128,101.425781&amp;ie=UTF8&amp;hq=&amp;hnear=Marktstra%C3%9Fe+15,+34434+Borgentreich,+Deutschland&amp;t=m&amp;z=14&amp;ll=51.568997,9.240251" style="color:#0000FF;text-align:left">Größere Kartenansicht</a></small>
@@ -41,7 +41,7 @@
     &#215;
 
 #contact.reveal-modal.tiny{ data: { reveal: true } }
-  %h1= 'Kontakt'
+  %h1= t('common.contact')
   %p
     StudioL2-Architektur
     %br

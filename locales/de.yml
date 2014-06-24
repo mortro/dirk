@@ -2,6 +2,9 @@
 de:
   common:
     read_more: 'weiter'
+    imprint: Impressum
+    avenue: Anfahrt
+    contact: Kontakt
   defaults:
     description: 'Studio L2 ist ein Architekturbüro aus Borgentreich. Es wurde 1998 von Dirk Lücke gegründet. Das Büro bietet seine Dienste in den Bereichen Neubau, Altbau, Sanierung, Skatepraks, Poolcopings und Statik an.'
     logo: 'L2'
