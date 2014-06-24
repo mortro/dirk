@@ -4,5 +4,7 @@
 #= require lib/vendor/placeholder.js
 #= require lib/foundation/foundation
 #= require lib/foundation/foundation.clearing
+#= require lib/foundation/foundation.topbar
+#= require lib/foundation/foundation.reveal
 #= require page/init
 #= require page/dom_ready

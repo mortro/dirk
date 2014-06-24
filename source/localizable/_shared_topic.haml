@@ -1,9 +1,8 @@
-.topic.as-shared{ class: "as-#{topic}" }
-  .row.shared-topic-anchor
+.topic{ class: "as-#{topic}" }
+  .row.topic-anchor
     %a{ name: "#{topic}" }
   .row
-    .small-offset-4.small-8.columns
-      %h1.topic-title.shared-topic-title= t("#{meta_topic}.#{topic}.title")
+    %h1.topic-title= t("#{meta_topic}.#{topic}.title")
   .row
     .small-12.columns.topic-description
       = t("#{meta_topic}.#{topic}.description")

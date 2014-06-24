@@ -1,16 +1,7 @@
 .topic
-  height: 90%
+  height: auto
+  min-height: 80%
   padding: $margin*3
-
-  &.as-shared
-    min-height: 80%
-    height: auto
-
-  &.is-first
-    height: 80%
-
-  &.is-last
-    height: 110%
 
   &.as-home
     background: url(../images/bg-home.png) no-repeat center center fixed
@@ -173,9 +164,6 @@
   .topic-anchor
     height: $margin*3
 
-  .shared-topic-anchor
-    height: $margin*5
-
   .topic-empty-row
     height: 45px
 
@@ -185,10 +173,6 @@
     text-shadow: 1px 1px $box-background-light-color--transparent
     text-align: right
     float: right
-    // background-color: $box-background-light-color--transparent
-
-  .shared-topic-title
-    font-size: 45px
 
   .topic-description
     color: $default-light-color
