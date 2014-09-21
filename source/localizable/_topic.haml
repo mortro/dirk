@@ -6,8 +6,7 @@
   .row
     .small-12.columns.topic-description
       :markdown
-        #{t("topic.#{topic}.description")}
-      = link_to t('common.read_more'), "/#{topic}.html", class: 'c2a-button' if topic != :home
+        #{t("topic.#{topic}.description", details_link: "/#{topic}.html")}
 .border
   .border-link
     %a{ href: "##{next_topic ? next_topic : 'top'}", data: { behavior: 'anchor-scroll' } }

@@ -19,7 +19,7 @@ h1
   font-family: Arial
   font-size: 45px
 
-.c2a-button
+%c2a-button
   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif
   font-size: $default-font-size
   color: $default-dark-color
@@ -36,3 +36,6 @@ h1
 
   &:hover
     background-color: darken($default-light-color, 20%)
+
+.c2a-button
+  @extend %c2a-button
