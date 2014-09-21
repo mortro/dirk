@@ -5,7 +5,8 @@
     %h1.topic-title= t("topic.#{topic}.title")
   .row
     .small-12.columns.topic-description
-      = t("topic.#{topic}.description")
+      :markdown
+        #{t("topic.#{topic}.description")}
       = link_to t('common.read_more'), "/#{topic}.html", class: 'c2a-button' if topic != :home
 .border
   .border-link
