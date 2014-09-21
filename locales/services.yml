@@ -1,2 +1,13 @@
 ---
-de: ~
+de:
+  services:
+    services_1:
+      description: |
+        Im Laufe der Jahre haben wir uns speziell für den Spritzbeton- und Fertigteilbau  im Rahmen des Skateparkbaus  ein genaues Kostenschätzungs- und Abrechnungssystem erarbeitet. Obwohl der Skatepark eine Einheit bildet, können wir  jeden Bauabschnitt einzeln bewerten und abrechen. Mit Verwendung von Ingenieursoftware ist uns der direkte Zugriff auf Massen und Abrechnungsdaten möglich und vereinfacht so eine genaue Kostenkalkulation.
+      images_size: 0
+      title: 'Ausschreibungskonzept'
+    services_2:
+      description: |
+        Als Mitglied der Architekten- sowie Industrie- und Handelskammer ist unser Büro im Bereich der Sachverständigenprüfung tätig. Bereits in der Vorplanung, wenn es um wichtige Punkte wie Baurecht, Platzauswahl,  Schallschutz, Kostenkalkulation, Bodenbeschaffenheit etc. geht, sind wir Ihr Ansprechpartner. Unser Angebot umfasst weiterhin die Vorprüfung sowie die Erstellung von Abnahme- und Sicherheitsprüfungen. Schon in der Vorprüfung erkennen wir den Sicherheits- und Freizeitwert einer Anlage, so dass ein gutes Gelingen zur Endabnahme sichergestellt werden kann.
+      images_size: 0
+      title: 'Machbarkeitsstudien, Vorplanungen,  Abnahmen, Sicherheitsprüfungen'

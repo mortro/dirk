@@ -2,8 +2,12 @@ $ ->
   # Slow scrolling to anchor
   $('[data-behavior=anchor-scroll]').on 'click', (event) ->
     event.preventDefault()
-    targetAnchor = $("a[name='"+$(@).attr('href').substring(1)+"']")
-    $('html,body').animate({scrollTop: targetAnchor.offset().top},'slow')
+    targetName = $(@).attr('href').substring(1)
+    targetAnchor = $("a[name='"+targetName+"']")
+    if targetName == 'top'
+      $('html,body').animate({scrollTop: 0},'slow')
+    else
+      $('html,body').animate({scrollTop: targetAnchor.offset().top},'slow')
 
 
   unless $.cookie('hide_alert')

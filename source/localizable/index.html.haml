@@ -2,8 +2,6 @@
 - @current_page = :home
 
 
-%a{ name: 'top' }
-
 - t('topic').keys.each_with_index do |topic_sym, index|
   - first = index == 0 ? true : false
   - last = index+1 == t('topic').keys.size ? true : false
